@@ -1,0 +1,4 @@
+﻿  String.cpp
+C:\Users\tlvla\source\repos\Overload operators\Overload operators\String.cpp(169,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tlvla\source\repos\Overload operators\Overload operators\String.cpp(172,21): warning C4018: '<=': signed/unsigned mismatch
+  Overload operators.vcxproj -> C:\Users\tlvla\source\repos\Overload operators\Debug\Overload operators.exe
